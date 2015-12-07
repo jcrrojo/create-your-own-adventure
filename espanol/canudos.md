@@ -89,3 +89,9 @@ el Consejero:
 [Saco de su bolsillo un extraño artefacto y se lo dio a Beatito](artefacto/artefacto.md)
 
 Al ojearlo, una duda lo emabargó...[¿Qué hago?](duda/duda.md)
+
+[Entonces recordó que en la guerra no está permitido dudar](guerra/guerra.md)
+
+[Sabía que la evolución premió la visión global antes que el análisis] (evolucion/evolucion.md)
+
+["No sirvo para esto, concluyó, ¡ni en sueños!"] (sueños/sueños.md)
